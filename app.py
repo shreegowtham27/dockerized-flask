@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route("/")
 def hello():
-    return "Hello World with Flask using Container"
+    return "Hello From a Docker + Flask App (Includes CI/CD with Jenkins Via AWS)"
 
 
 if __name__ == "__main__":

@@ -1,0 +1,17 @@
+body{
+    margin:0 auto;
+    width: 80vw;
+}
+
+.flex{
+    display: flex;
+}
+
+.body h1{
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+}
+p{
+    text-align: center;
+}
